@@ -42,7 +42,8 @@ header {
 }
 
 main {
-
+	float: left;
+	width: 50%;
 }
 
 p {
@@ -68,4 +69,9 @@ p {
 
 #main-container {
 
+}
+
+nav {
+	float: left;
+	width: 25%;
 }
